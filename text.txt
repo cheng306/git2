@@ -9,8 +9,5 @@ change8
 change9
 change10
 change11
-<<<<<<< HEAD
 12
-=======
 change12
->>>>>>> branch2
